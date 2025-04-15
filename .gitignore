@@ -1,0 +1,11 @@
+# Build and generated files
+build/
+install/
+log/
+# Editor files
+.vscode/
+.idea/
+# Other common files to ignore
+*.swp
+*.swo
+.DS_Store
