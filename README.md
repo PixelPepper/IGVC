@@ -4,8 +4,8 @@ This repository contains the ROS (Robot Operating System) workspace for the Inte
 
 ## Prerequisites
 
-- Ubuntu 20.04 or later
-- ROS 2 (Galactic or newer)
+- Ubuntu 22.04
+- ROS 2 (Humble)
 - NVIDIA GPU (recommended)
 - Git
 - Docker (optional, for containerized development)
